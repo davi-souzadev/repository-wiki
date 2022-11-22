@@ -4,13 +4,12 @@
   Wiki de repositórios desenvolvido no módulo de ReactJS do bootcamp dio Orange Tech+
 </p>
 <p>
-  Digite `nome-do-usuario/nome-do-repositorio` na barra de busca para receber informações sobre o mesmo
+  Digite "nome-do-usuario/nome-do-repositorio" na barra de busca para receber informações sobre o mesmo
 </p>
 
 ## Desafio proposto
-<p>
-  [x] Implementar a função de deletar o repositório desejado da lista.
-</p>
+
+- [x] Implementar a função de deletar o repositório desejado da lista.
 
 ## Tecnologias usadas no projeto
 
